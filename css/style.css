@@ -1,0 +1,76 @@
+.background-color{
+    background-color: #eee;
+}
+
+.color-principal{
+    color: #0099AA;
+}
+.second-color{
+    color: #004045;
+}
+.image-article-size{
+    width: 100%;
+    height: 100%;
+
+}
+.image-article-style{
+    padding-bottom:15px;
+    width: 100%;
+    border-radius: 0.25rem;
+}
+.button-article-background-color{
+    color: #eee; 
+    background-color:#0099AA;
+}
+
+.border-color{
+    border-color: #004045;
+}
+
+.padding{
+    padding: 5px;
+}
+.share-facebook-color{
+    text-decoration: none;
+    color : #4267B2  ;
+
+}
+.share-twitter-color{
+    text-decoration: none;
+    color : #1DA1F2  ;
+
+}
+div{
+    direction: rtl;
+}
+
+
+.NameUser-Comment{
+    font-size: 20px ;
+}
+.comment-date{
+    margin-bottom: 10px;
+    font-size: 12px ;
+}
+.comment-user-image{
+    padding: 2px;
+   
+}
+.link :hover{
+    color: #0099AA ;
+}
+.user-background-color{
+   background-color: #eee ; 
+}
+.link-dislike :hover{
+    color:#ff6161 ; 
+}
+.link-like :hover{
+    color : #2f64a1 ;
+}
+.link-reply :hover{
+   color : #0099AA ;
+}
+.image-user{
+    border-radius: 50%;
+}
