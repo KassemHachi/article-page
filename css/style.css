@@ -79,3 +79,6 @@ div{
     text-overflow: ellipsis;
    
 }
+.list-dropdown-text-size{
+    font-size: 100%;
+}
