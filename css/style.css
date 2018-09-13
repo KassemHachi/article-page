@@ -74,3 +74,8 @@ div{
 .image-user{
     border-radius: 50%;
 }
+.btn-text-size{
+    overflow: hidden;
+    text-overflow: ellipsis;
+   
+}
