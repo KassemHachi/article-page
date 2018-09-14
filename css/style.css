@@ -40,9 +40,7 @@
     color : #1DA1F2  ;
 
 }
-div{
-    direction: rtl;
-}
+
 
 
 .NameUser-Comment{
@@ -56,8 +54,9 @@ div{
     padding: 2px;
    
 }
+
 .link :hover{
-    color: #0099AA ;
+   color: #0099AA;
 }
 .user-background-color{
    background-color: #eee ; 
@@ -74,7 +73,7 @@ div{
 .image-user{
     border-radius: 50%;
 }
-.btn-text-size{
+.text-overflow{
     overflow: hidden;
     text-overflow: ellipsis;
    
