@@ -135,6 +135,7 @@ body{
   .tag:hover {
     background-color: #0099AA;
     color: #eee;
+
   }
   
   .tag:hover::after {
