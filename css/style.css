@@ -26,6 +26,14 @@ div {
     color: #eee; 
     background-color:#0099AA;
 }
+.button-more-background-color{
+    background-color: #eee;
+    color: #004045;
+}
+.button-more-background-color:hover{
+    color: #eee; 
+    background-color:#0099AA;
+}
 
 .border-color{
     border-color: #004045;
@@ -36,13 +44,19 @@ div {
 }
 .share-facebook-color{
     text-decoration: none;
-    color : #4267B2  ;
-
+    /* color : #4267B2  ; */
+    color: #004045;
+}
+.share-facebook-color :hover{
+    color: #0099AA;
 }
 .share-twitter-color{
     text-decoration: none;
-    color : #1DA1F2  ;
-
+    /* color : #1DA1F2  ; */
+    color: #004045;
+}
+.share-twitter-color :hover{
+    color: #0099AA;
 }
 
 
@@ -65,15 +79,7 @@ div {
 .user-background-color{
    background-color: #eee ; 
 }
-.link-dislike :hover{
-    color:#ff6161 ; 
-}
-.link-like :hover{
-    color : #2f64a1 ;
-}
-.link-reply :hover{
-   color : #0099AA ;
-}
+
 .image-user{
     border-radius: 50%;
 }
