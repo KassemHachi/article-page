@@ -34,10 +34,15 @@ div {
     color: #eee; 
     background-color:#0099AA;
 }
-
-.border-color{
-    border-color: #004045;
+.button-page-link>.pagelink{
+    background-color: #eee;
+    color: #004045;
 }
+.button-page-link>.page-link:hover{
+    color: #eee; 
+    background-color:#0099AA;
+}
+
 
 .padding{
     padding: 5px;
