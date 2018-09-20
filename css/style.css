@@ -52,7 +52,14 @@ div {
 .padding{
     padding: 5px;
 }
-
+.share-facebook-color{
+    text-decoration: none;
+    /* color : #4267B2  ; */
+    color: #004045;
+}
+.share-facebook-color :hover{
+    color: #0099AA;
+}
 .share-twitter-color{
     text-decoration: none;
     /* color : #1DA1F2  ; */
