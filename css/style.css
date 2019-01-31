@@ -34,11 +34,11 @@ div {
     color: #eee; 
     background-color:#0099AA;
 }
-.button-page-link>.pagelink{
+.pagelink{
     background-color: #eee;
     color: #004045;
 }
-.button-page-link>.page-link:hover{
+.page-link:hover{
     color: #eee; 
     background-color:#0099AA;
 }
